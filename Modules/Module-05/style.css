@@ -1,0 +1,43 @@
+p.blue {
+    color: blue;
+}
+p.red {
+    color: red;
+}
+p.green {
+    color: green;
+}
+p.orange {
+    color: orange;
+}
+
+p.big {
+    font-size: 30px;
+}
+p.tiny {
+    font-size: 8px;
+}
+
+p.center {
+    text-align: center;
+}
+
+p.fontfamily {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.styledFont {
+    color: green;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#styledImage {
+    border: 12px dotted blue;
+}
+
+
